@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="mapper.DataMapper">
+
+    <insert id="add" parameterType="teacher">
+        insert into teacher(name, sex, birthday, prof, depart)
+        values (#{name}, #{sex}, #{birthday}, #{prof}, #{depart})
+    </insert>
+
+    <update id="update" parameterType="teacher">
+        update teacher set name = #{name},sex = #{sex},birthday = #{birthday},prof =  #{prof},depart = #{depart} where id = #{id}
+    </update>
+
+    <delete id="delete" parameterType="string">
+        delete from teacher where id in
+        <foreach collection="array" item="item" open="(" separator="," close=")">
+            #{item}
+        </foreach>
+    </delete>
+
+    <select id="allSearch" parameterType="map" resultType="teacher">
+        select id,name,sex,birthday,prof,depart from teacher
+        <where>
+            <if test="name != null and name != ''">
+                name like '%${name}%'
+            </if>
+        </where>
+    </select>
+</mapper>
