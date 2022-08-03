@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<c3p0-config>
+    <!--使用默认的配置读取数据库连接池对象 -->
+    <default-config>
+        <!--  连接参数 -->
+        <property name="driverClass">com.mysql.cj.jdbc.Driver</property>
+        <property name="jdbcUrl">jdbc:mysql://localhost:3306/test?serverTimezone=UTC</property>
+        <property name="user">root</property>
+        <property name="password">yxq080314</property>
+
+        <!-- 连接池参数 -->
+        <!-- 连接池配置 -->
+        <!-- 若数据库中连接数不足时, 一次向数据库服务器申请多少个连接-->
+        <property name="acquireIncrement">5</property>
+        <!-- 初始化数据库连接池时连接的数量 -->
+        <property name="initialPoolSize">5</property>
+        <property name="maxIdleTime">3</property>
+        <!-- 数据库连接池中的最大的数据库连接数 -->
+        <property name="maxPoolSize">4</property>
+        <!-- 数据库连接池中的最小的数据库连接数 -->
+        <property name="minPoolSize">2</property>
+        <!--最大空闲时间,60秒内未使用则连接被丢弃。若为0则永不丢弃。Default: 0-->
+        <property name="maxIdleTime">10</property>
+    </default-config>
+
+    <!-- 命名配置 -->
+    <named-config name="myApp">
+
+        <property  name="driverClass">com.mysql.cj.jdbc.Driver</property >
+        <property name="jdbcUrl">jdbc:mysql://localhost:3306/java?serverTimezone=UTC&amp;characterEncoding=UTF-8</property >
+        <property name="user">root</property>
+        <property name="password">yxq080314</property>
+
+        <property name="initialPoolSize">10</property>
+        <property name="maxIdleTime">10</property>
+        <property name="maxPoolSize">20</property>
+        <property name="minPoolSize">10</property>
+    </named-config>
+</c3p0-config>
