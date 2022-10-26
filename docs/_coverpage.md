@@ -8,4 +8,4 @@
 [开始阅读->](#docsify)
 
 
-![](static/output.png)
+![](https://wboo1024.github.io/StudyNotes/static/output.png)
