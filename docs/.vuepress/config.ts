@@ -4,7 +4,7 @@ import theme from "./theme";
 export default defineUserConfig({
     lang: "zh-CN",
     //网页标签及首页左上角logo
-    title: "壹零二四",
+    title: "EasyJava",
     //指定 vuepress build 的输出目录
     dest: "./dist",
     theme,
