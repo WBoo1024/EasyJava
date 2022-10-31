@@ -58,7 +58,7 @@ footer: |-
     <a href="https://beian.miit.gov.cn/" target="_blank">鄂ICP备2020015769号-1</a> | Designed by: <a href="https://vuepress-theme-hope.github.io/v2/" target="_blank">VuePress Theme Hope</a>
 ---
 ## To Do
-- 算是一次满足自己心中想法的行为吧，学习[VuePress](https://vuepress.vuejs.org/zh/)，顺便搭建一个自己的知识网站。
+- 学习[VuePress](https://vuepress.vuejs.org/zh/)，顺便搭建一个自己的知识网站。
 
 - 整理笔记同时复习巩固知识点，督促自己每天保持学习！
 

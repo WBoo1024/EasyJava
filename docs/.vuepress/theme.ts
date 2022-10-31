@@ -8,7 +8,7 @@ export default hopeTheme({
   //文章作者
   author: "壹零二四",
   //图标资源
-  iconAssets: "//at.alicdn.com/t/c/font_3736120_djzeu3vx9lc.css",
+  iconAssets: "//at.alicdn.com/t/c/font_3736120_dgvgl799nzh.css",
   iconPrefix: "iconfont icon-",
   //导航栏logo
   logo: "logo.png",
