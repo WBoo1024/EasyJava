@@ -19,6 +19,6 @@
 
 ## Thanks
 > 站在巨人的肩膀之上，借鉴参考各位Javaer的开源知识库！
-- [JavaGuide](https://github.com/Snailclimb/JavaGuide):Java学习笔记+面试指南
-- [CodeGuide](https://github.com/fuzhengwei/CodeGuide):程序员编码指南
-- [java-study-gitbook](https://github.com/zszdevelop/java-study-gitbook):学习笔记 & 工作总结
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide)
+- [CodeGuide](https://github.com/fuzhengwei/CodeGuide)
+- [java-study-gitbook](https://github.com/zszdevelop/java-study-gitbook)
