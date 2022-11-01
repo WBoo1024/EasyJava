@@ -10,7 +10,7 @@
 - [消息队列]()
 - [Docker|部署]()
 - [工具|推荐]()
-- [持续集成]()
+- [持续集成|CD]()
 
 ## To Do
 - 学习[VuePress](https://vuepress.vuejs.org/zh/)，顺便搭建一个自己的知识网站。
