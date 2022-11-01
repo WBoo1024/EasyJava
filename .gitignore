@@ -1,5 +1,5 @@
 .idea
 node_modules/
-docs\src/.vuepress/.cache/
-docs\src/.vuepress/.temp/
-docs\src/.vuepress/dist/
+docs/.vuepress/.cache/
+docs/.vuepress/.temp/
+docs/.vuepress/dist/
