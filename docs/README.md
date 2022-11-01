@@ -44,7 +44,7 @@ features:
     details: Git工作流、Linux常用指令、IDEA、好软分享、开源框架
     link: /tool/
 
-  - title: 自动化运维
+  - title: 持续集成
     icon: auto
     details: 项目自动构建，一键打包部署
     link: /actions
