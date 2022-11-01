@@ -18,6 +18,8 @@ export default hopeTheme({
   navbar: navbar,
   //侧边栏配置
   sidebar: sidebar,
+  //禁用标题链接
+  headerDepth: 2,
   //全屏设置
   fullscreen: true,
   //文章信息
