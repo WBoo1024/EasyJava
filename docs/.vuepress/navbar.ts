@@ -1,7 +1,16 @@
 import {navbar} from "vuepress-theme-hope";
 
 export default navbar([
-    {text: "Java", icon: "java", link: "/home.md"},
+    {
+        text: "Java",
+        icon: "java",
+        children: [
+            {text: "基础", icon: "index", link: "/java/basis/01-基础概念.md"},
+            {text: "集合", icon: "jihe", link: "/java/collection/01-集合概述.md"},
+            {text: "I/O流", icon: "io", link: "/java/io/01-io基础.md"},
+            {text: "多线程", icon: "jincheng", link: "/java/multithreading/01-初识多线程.md"},
+            {text: "JVM", icon: "jvm", link: "/java/jvm/01-认识jvm.md"},
+        ]},
     {
         text: "数据库",
         icon: "shujuku",
