@@ -1,4 +1,12 @@
-#HTML
+---
+title: HTML5基础知识
+icon: html
+category: HTML5
+tag:
+- 前端
+---
+
+# HTML
 
 ## HTML基础结构标签
 
@@ -875,6 +883,3 @@ HTML 中的注释以：`<!--` 开头，以 `-->` 结束
   </style>
 </head>
 ```
-
-
-
