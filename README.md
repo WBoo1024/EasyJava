@@ -1,6 +1,7 @@
 <div align=center>
 <img src="docs/.vuepress/public/logo.png" height="200">
-<p><a href="https://1024.wboo.xyz" target="_blank">EasyJava</a> | 壹零二四</p>
+<p><a href="https://1024.wboo.xyz" target="_blank">EasyJava</a> | <a href="https://github.com/WBoo1024" target="_blank">壹零二四</a></p>
+<a href="https://1024.wboo.xyz" target="_blank"><img src="https://img.shields.io/badge/EasyJava-%E9%98%85%E8%AF%BB-%23ea5759"></a>
 </div>
 
 ## 项目
