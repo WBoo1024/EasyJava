@@ -7,52 +7,52 @@ heroText: 壹零二四
 tagline: 今天你学习了吗？
 actions:
   - text: 开始阅读 🚀
-    link: /java/01-基础概念.md
+    link: /java/basis/01-基础概念.md
     type: primary
 
   - text: 个人简历
-    link: /myjob.md
+    link: /
 
 features:
   - title: Java入门
     icon: java
-    details: Java基础、集合接口、多线程、JVM、IO流
-    link: /java/
+    details: Java基础、集合接口、多线程、IO流、JVM
+    link: /java/basis/01-基础概念.md
 
   - title: 数据库|框架
     icon: shujuku
     details: 数据库基础、MySQL、Redis、MyBatis
-    link: /sql/
+    link: /
 
   - title: Spring|分布式
     icon: spring
     details: SpringMVC、SpringBoot、分布式
-    link: /spring/
+    link: /
 
   - title: 消息队列
     icon: mq
     details: 消息中间件、RocketMQ、RabbitMQ
-    link: /mq/
+    link: /
 
   - title: Docker|部署
     icon: docker
     details: Docker基础、DockerFile、Docker-Compose
-    link: /docker/
+    link: /
 
   - title: 工具|推荐
     icon: tool
     details: Git工作流、Linux常用指令、IDEA、好软分享、开源框架
-    link: /tool/
+    link: /
 
   - title: 持续集成|CD
     icon: auto
     details: 项目自动构建，一键打包部署
-    link: /actions
+    link: /
 
   - title: 个人分享
     icon: share
-    details: 各种杂项
-    link: /share
+    details: 前端、各种杂项
+    link: /share/html/CSS知识点.md
 copyrightText: Copyright © 2022 壹零二四
 footer: |-
     <a href="https://beian.miit.gov.cn/" target="_blank">鄂ICP备2020015769号-1</a> | Designed by: <a href="https://vuepress-theme-hope.github.io/v2/" target="_blank">VuePress Theme Hope</a>
