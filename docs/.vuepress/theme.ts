@@ -8,7 +8,7 @@ export default hopeTheme({
   //文章作者
   author: "壹零二四",
   //图标资源
-  iconAssets: "//at.alicdn.com/t/c/font_3736120_dgvgl799nzh.css",
+  iconAssets: "//at.alicdn.com/t/c/font_3736120_hgxrosm6jl.css",
   iconPrefix: "iconfont icon-",
   //导航栏logo
   logo: "logo.png",
@@ -18,8 +18,9 @@ export default hopeTheme({
   navbar: navbar,
   //侧边栏配置
   sidebar: sidebar,
+  sidebarSorter: ["order","file-number"],
   //禁用标题链接
-  headerDepth: 2,
+  //headerDepth: 2,
   //全屏设置
   fullscreen: true,
   //文章信息
