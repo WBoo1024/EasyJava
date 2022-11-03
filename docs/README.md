@@ -19,20 +19,20 @@ features:
     details: Java基础、集合接口、多线程、IO流、JVM
     link: /java/basis/01-基础概念.md
 
-  - title: 数据库|框架
+  - title: 数据库|ORM
     icon: shujuku
     details: 数据库基础、MySQL、Redis、MyBatis
-    link: /
+    link: /database/mysql/01-常见面试题.md
 
   - title: Spring|分布式
     icon: spring
     details: SpringMVC、SpringBoot、分布式
-    link: /
+    link: /spring/boot/01-面试题总结.md
 
   - title: 消息队列
     icon: mq
     details: 消息中间件、RocketMQ、RabbitMQ
-    link: /
+    link: /mq/01-面试题总结.md
 
   - title: Docker|部署
     icon: docker
