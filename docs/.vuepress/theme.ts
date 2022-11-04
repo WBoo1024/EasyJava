@@ -11,7 +11,8 @@ export default hopeTheme({
   iconAssets: "//at.alicdn.com/t/c/font_3736120_hgxrosm6jl.css",
   iconPrefix: "iconfont icon-",
   //导航栏logo
-  logo: "logo.png",
+  logo: "/logo.png",
+  docsDir: "docs",
   //仓库配置
   repo: "https://github.com/WBoo1024/EasyJava",
   //导航栏配置
