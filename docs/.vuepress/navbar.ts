@@ -34,8 +34,8 @@ export default navbar([
         text: "开发工具",
         icon: "tool",
         children: [
-            {text: "Git", icon: "git", link: "/java/basis/01-基础概念.md"},
-            {text: "Docker", icon: "docker", link: "/java/basis/01-基础概念.md"},
+            {text: "Git", icon: "git", link: "/tool/git/01-git入门.md"},
+            {text: "Docker", icon: "docker", link: "/tool/docker/01-docker入门.md"},
             {text: "IDEA", icon: "Idea", link: "/java/basis/01-基础概念.md"},
         ],
     },
