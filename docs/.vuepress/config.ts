@@ -5,7 +5,7 @@ export default defineUserConfig({
     lang: "zh-CN",
     description: "今天你学习了吗？",
 
-    base: "/",
+    base: "/EasyJava/",
     head: [
         ['script', {}, `
           var _hmt = _hmt || [];
