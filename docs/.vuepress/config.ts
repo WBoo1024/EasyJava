@@ -7,8 +7,6 @@ export default defineUserConfig({
     //网页标签及首页左上角logo
     title: "EasyJava",
     theme,
-    //是否开启默认预加载js
-    shouldPrefetch: false,
     head: [
         ["link",
             {

@@ -38,15 +38,6 @@ export default hopeTheme({
   },
   //插件
   plugins: {
-    mdEnhance: {
-      align: true,
-      tabs: true,
-      container: true,
-      demo: true,
-      flowchart: true,
-      imageSize: true,
-      lazyLoad: true,
-      mark: true,
-    },
+    seo: false
   },
 });
