@@ -37,12 +37,12 @@ features:
   - title: Docker|部署
     icon: docker
     details: Docker基础、DockerFile、Docker-Compose
-    link: /
+    link: /tool/docker/01-docker入门.md
 
   - title: 工具|推荐
     icon: tool
     details: Git工作流、Linux常用指令、IDEA、好软分享、开源框架
-    link: /
+    link: /tool/git/01-git入门.md
 
   - title: 持续集成|CD
     icon: auto
