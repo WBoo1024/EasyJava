@@ -9,6 +9,8 @@ export default sidebar({
     "/spring/": "structure",
     //消息队列部分
     "/mq/": "structure",
+    //开发工具部分
+    "/tool/": "structure",
     //个人分享部分
     "/share/": "structure",
 });
