@@ -74,8 +74,6 @@ private:
 
 **事务可见性示意图**（[图源](https://leviathan.vip/2019/03/20/InnoDB%E7%9A%84%E4%BA%8B%E5%8A%A1%E5%88%86%E6%9E%90-MVCC/#MVCC-1)）：
 
-![trans_visible]()
-
 ### undo-log
 
 `undo log` 主要有两个作用：

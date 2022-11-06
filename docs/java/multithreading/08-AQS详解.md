@@ -13,7 +13,7 @@ tag:
 - 用过 `Semaphore` 吗？应用场景了解吗？
 - ......
 
-相关阅读：[从 ReentrantLock 的实现看AQS的原理及应用](docs/java/multithreading/12-ReentrantLock重入锁.md)
+相关阅读：[从 ReentrantLock 的实现看AQS的原理及应用](./12-ReentrantLock重入锁.md)
 
 ## AQS 简单介绍
 

@@ -3,13 +3,6 @@ title: Map接口详解
 category: Java
 tag:
   - Java集合
-head:
-  - - meta
-    - name: keywords
-      content: HashMap,ConcurrentHashMap,Hashtable,List,Set
-  - - meta
-    - name: description
-      content: Java集合常见知识点和面试题总结，希望对你有帮助！
 ---
 
 ## Map 接口
