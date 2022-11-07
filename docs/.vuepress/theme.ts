@@ -7,7 +7,7 @@ export default hopeTheme({
 
     author: "壹零二四",
 
-    iconAssets: "//at.alicdn.com/t/c/font_3736120_hgxrosm6jl.css",
+    iconAssets: "//at.alicdn.com/t/c/font_3736120_9wqlfded6zp.css",
 
     iconPrefix: "iconfont icon-",
 
