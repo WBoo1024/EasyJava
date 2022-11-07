@@ -5,7 +5,7 @@ export default defineUserConfig({
     base: "/",
     lang: "zh-CN",
     title: "EasyJava",
-    description: "今天你学习了吗?",
+    description: "借鉴参考各位Javaer的开源知识库，在此基础上对笔记整合同时复习巩固知识点，督促自己每天保持学习，并将个人的总结分享给大家！",
     theme,
     //百度统计脚本
     head: [
