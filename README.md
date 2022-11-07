@@ -1,5 +1,5 @@
 <div style="text-align: center">
-<img src="https://s3.bmp.ovh/imgs/2022/11/07/37f982e49c9a0357.png">
+<img src="https://cdn.jsdelivr.net/gh/WBoo1024/MyPic/img/index-logo.png" height="200">
 <p><a href="https://wboo.xyz" target="_blank">EasyJava</a> | <a href="https://github.com/WBoo1024" target="_blank">壹零二四</a></p>
 <a href="https://wboo.xyz" target="_blank"><img src="https://img.shields.io/badge/EasyJava-%E9%98%85%E8%AF%BB-%23ea5759"></a>
 </div>
