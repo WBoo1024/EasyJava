@@ -19,6 +19,8 @@ export default hopeTheme({
 
     pageInfo: ["Author","Category", "Tag", "Word"],
 
+    sidebarSorter: ["order","filename","title"],
+
     // navbar
     navbar: Navbar,
 
