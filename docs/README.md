@@ -1,16 +1,16 @@
 ---
 home: true
 icon: index
-title: 首页
+title: 壹零二四
 heroImage: /iron.jpg
 heroText: 壹零二四
 tagline: 今天你学习了吗？
 actions:
-  - text: 开始阅读 🚀
+  - text: 开始阅读 
     link: /java/basis/01-基础概念.md
     type: primary
 
-  - text: 个人简历
+  - text: 持续完善 🚀
     link: /
 
 features:

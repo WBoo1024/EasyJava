@@ -1,17 +1,17 @@
 <div align=center>
 <img src="docs/.vuepress/public/logo.png" height="200">
-<p><a href="https://1024.wboo.xyz" target="_blank">EasyJava</a> | <a href="https://github.com/WBoo1024" target="_blank">壹零二四</a></p>
-<a href="https://1024.wboo.xyz" target="_blank"><img src="https://img.shields.io/badge/EasyJava-%E9%98%85%E8%AF%BB-%23ea5759"></a>
+<p><a href="https://wboo.xyz" target="_blank">EasyJava</a> | <a href="https://github.com/WBoo1024" target="_blank">壹零二四</a></p>
+<a href="https://wboo.xyz" target="_blank"><img src="https://img.shields.io/badge/EasyJava-%E9%98%85%E8%AF%BB-%23ea5759"></a>
 </div>
 
 ## 项目
-- [Java入门]()
-- [数据库|框架]()
-- [Spring|分布式]()
-- [消息队列]()
-- [Docker|部署]()
-- [工具|推荐]()
-- [持续集成|CD]()
+- [Java入门](/)
+- [数据库|框架](/)
+- [Spring|分布式](/)
+- [消息队列](/)
+- [Docker|部署](/)
+- [工具|推荐](/)
+- [持续集成|CD](/)
 
 ## To Do
 - 学习[VuePress](https://vuepress.vuejs.org/zh/)，顺便搭建一个自己的知识网站。
