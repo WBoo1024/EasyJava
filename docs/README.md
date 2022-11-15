@@ -55,7 +55,7 @@ features:
     link: /share/html/CSS知识点.md
 copyrightText: Copyright © 2022 壹零二四
 footer: |-
-    <a href="https://beian.miit.gov.cn/" target="_blank">鄂ICP备2020015769号-1</a> | Designed by: <a href="https://vuepress-theme-hope.github.io/v2/" target="_blank">VuePress Theme Hope</a>
+    <a href="https://beian.miit.gov.cn/" target="_blank">鄂ICP备2020015769号-1</a> | <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030702005124"><img src="/备案图标.png"/>粤公网安备 44030702005124号</a> | Designed by: <a href="https://vuepress-theme-hope.github.io/v2/" target="_blank">VuePress Theme Hope</a>
 ---
 ## 💡To Do
 - 学习[VuePress](https://vuepress.vuejs.org/zh/)，顺便搭建一个自己的知识网站。
